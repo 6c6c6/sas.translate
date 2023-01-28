@@ -1,0 +1,3 @@
+files:
+  - source: default.po
+    translation: '%two_letters_code%.%file_extension%'
