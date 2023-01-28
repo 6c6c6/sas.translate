@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: b89b7c6d39558546f47174fdaf12a3bc\n"
 "POT-Creation-Date: 2022-11-22 19:52\n"
-"PO-Revision-Date: 2023-01-28 19:45\n"
+"PO-Revision-Date: 2023-01-28 20:45\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,7 +48,7 @@ msgstr " До "
 #. Programmer's name for it: SAS_STR_ExtendedMultiPathCaption
 #, object-pascal-format
 msgid "%0:s (MultiPath %d)"
-msgstr "%0:s (МультиШлях %1:d)"
+msgstr "%0:s (МультиШлях %d)"
 
 #. Programmer's name for it: SAS_STR_ExtendedMultiPointCaption
 #, object-pascal-format
@@ -58,7 +58,7 @@ msgstr "%0:s (МультиПозначка %1:d) "
 #. Programmer's name for it: SAS_STR_ExtendedMultiPolygonCaption
 #, object-pascal-format
 msgid "%0:s (MultiPolygon %d)"
-msgstr "%0:s (МультиПолігон %1:d)"
+msgstr "%0:s (МультиПолігон %d)"
 
 #. Programmer's name for it: SAS_STR_ExtendedPathCaption
 #, no-object-pascal-format
@@ -395,7 +395,7 @@ msgstr "Додати шар"
 
 #. frmMarkSystemConfigEdit..Caption
 msgid "Add Marks Database"
-msgstr "Додавання бази міток"
+msgstr "Додавання бази позначок"
 
 #. frmMapTypeEdit..PageControl1..tsOthers..chkBoxSeparator..Caption
 msgid "Add menu separator line after this map"
@@ -2014,7 +2014,7 @@ msgstr "Експорт всіх позначок та категорій"
 
 #. frmMarksExplorer..tbpmnMarks..tbitmExportMark..Caption
 msgid "Export Placemark"
-msgstr "Експортувати  позначку"
+msgstr "Експортувати позначку"
 
 #. frmMarksExplorer..tbpmnCategories..tbitmExportCategory..Caption
 msgid "Export Placemarks"
@@ -2201,7 +2201,7 @@ msgstr "Для"
 
 #. frmMarkSystemConfigEdit..grpOptions..grdpnlOptions1..pnlForcedSchemaName..lblForcedSchemaName..Caption
 msgid "Forced Schema Name:"
-msgstr ""
+msgstr "Назва примусової схеми:"
 
 #. frmCacheManager..PageControl1..tsConverter..grpSrc..lblCacheType..Caption
 #. frmCacheManager..PageControl1..tsConverter..grpDestCache..lblDestFormat..Caption
@@ -2901,7 +2901,7 @@ msgstr "Назва карти:"
 #. frMapsList..pnlMapsRightButtons..cbbSortingOrder..Text
 #. frMapsList..pnlMapsRightButtons..cbbSortingOrder....Items.Strings
 msgid "Map Number"
-msgstr ""
+msgstr "Номер карти"
 
 #. frmMain..actlstMain..actConfigProjectionOfMapUse..Caption
 msgid "Map Original Projection (from zmp)"
@@ -2973,19 +2973,19 @@ msgid "Mark Nonexistent Tiles"
 msgstr "Відсутні тайли"
 
 msgid "Marks"
-msgstr ""
+msgstr "Мітки"
 
 #. frmMain..TBDock..TBXMainMenu..NMarks..NMarksGroup..tbxMarksDbList..Hint
 msgid "Marks database"
-msgstr ""
+msgstr "База даних позначок"
 
 #. frmMain..TBDock..TBXMainMenu..NMarks..NMarksGroup..tbxMarksDbList..Caption
 msgid "Marks Database"
-msgstr ""
+msgstr "База даних позначок"
 
 #. frmMarksExportConfig..Caption
 msgid "Marks Export Config"
-msgstr ""
+msgstr "Налаштування експорту позначок"
 
 #. frmMarksMultiEdit..Caption
 msgid "Marks Parameters"
