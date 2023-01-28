@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: b89b7c6d39558546f47174fdaf12a3bc\n"
 "POT-Creation-Date: 2022-11-22 19:52\n"
-"PO-Revision-Date: 2023-01-28 16:00\n"
+"PO-Revision-Date: 2023-01-28 19:45\n"
 "Last-Translator: Somebody <your.email@address.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -357,7 +357,7 @@ msgid "Absolute"
 msgstr "Абсолютний"
 
 msgid "Access is denied"
-msgstr ""
+msgstr "Доступ заборонений"
 
 #. frMapSelect..FilterPopupMenu..TBX_Active..Caption
 msgid "Active"
@@ -1105,7 +1105,7 @@ msgid "Change source zoom"
 msgstr "Змінити вихідний масштаб"
 
 msgid "Changes will take effect after restart."
-msgstr ""
+msgstr "Зміни наберуть чинності після перезапуску."
 
 #. Programmer's name for it: SAS_STR_BattaryStateCharge
 msgid "Charging"
@@ -1113,10 +1113,10 @@ msgstr "Зарядка"
 
 #. frmMain..actlstMain..actShowUpddateChecker..Caption
 msgid "Check for Updates"
-msgstr ""
+msgstr "Перевірити наявність оновлень"
 
 msgid "Circle"
-msgstr ""
+msgstr "Коло"
 
 #. frmMain..actlstMain..actCircleCalculation..Caption
 #. frmMain..actlstMain..actCircleCalculation..Hint
@@ -1135,7 +1135,7 @@ msgid "Cleaning up. "
 msgstr "Очистка"
 
 msgid "Clipboard is empty!"
-msgstr ""
+msgstr "Буфер обміну порожній!"
 
 #. frmMarkPictureConfig..btnClose..Caption
 #. frmMarksExportConfig..pnlBottom..btnClose..Caption
@@ -1150,7 +1150,7 @@ msgstr "Закрити вікно після закінчення"
 
 #. Programmer's name for it: rsCloseCalcCaption
 msgid "Close the Calculator"
-msgstr ""
+msgstr "Закрити калькулятор"
 
 #. frmProgressDownload..Panel1..chkAutoCloseWhenFinish..Caption
 msgid "Close this window once finished"
@@ -1217,11 +1217,11 @@ msgstr "Стиснення (для PNG):"
 
 #. frArchiveWriteZipConfig..lblCompressLevel..Caption
 msgid "Compression Level:"
-msgstr ""
+msgstr "Рівень стиснення:"
 
 #. frArchiveWriteZipConfig..lblCompressMethod..Caption
 msgid "Compression Method:"
-msgstr ""
+msgstr "Метод стиснення:"
 
 #. frMapCombineCustomOptions..flwpnlCompression..lblCompression..Caption
 #. frExportToJNX..PageControl1..Map..pnlCenter..pnlMain..lblCompress..Caption
@@ -1286,7 +1286,7 @@ msgstr "Копіювати"
 
 #. frmRegionProcess..pnlBottomButtons..TBXOperationsToolbar..tbtmCopyBbox..Hint
 msgid "Copy BBOX coordinates"
-msgstr ""
+msgstr "Копіювати BBOX координати"
 
 #. frmMain..tbxpmnSearchResult..tbitmCopySearchResultCoordinates..Caption
 msgid "Copy coordinates"
@@ -1294,7 +1294,7 @@ msgstr "Копіювати координати"
 
 #. frLonLat..grdpnlTop..pnlButtons..btnCopy..Hint
 msgid "Copy coordinates to clipboard"
-msgstr ""
+msgstr "Копіювати координати до буфера обміну"
 
 #. frmMain..tbxpmnSearchResult..tbitmCopySearchResultDescription..Caption
 msgid "Copy description"
@@ -1306,7 +1306,7 @@ msgstr "Копіювати тайли з виділення у теку"
 
 #. frmMarksExplorer..tbpmnMarks..tbitmCopyAsText..Caption
 msgid "Copy to Clipboard as Text"
-msgstr ""
+msgstr "Копіювати до буфера обміну як текст"
 
 #. Programmer's name for it: SAS_STR_OperationTilesCopyCaption
 msgid "Copying"
@@ -1333,55 +1333,55 @@ msgstr "Азимут:"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1250 (Central European Sort)"
-msgstr ""
+msgstr "CP1250 (центральноєвропейське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1251 (Cyrillic Sort)"
-msgstr ""
+msgstr "CP1251 (кириличне)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1252 (Western European Sort)"
-msgstr ""
+msgstr "CP1252 (західноєвропейське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1253 (Greek Sort)"
-msgstr ""
+msgstr "CP1253 (грецьке)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1254 (Turkish Sort)"
-msgstr ""
+msgstr "CP1254 (турецьке)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1255 (Hebrew Sort)"
-msgstr ""
+msgstr "CP1255 (іврит)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1256 (Arabic Sort)"
-msgstr ""
+msgstr "CP1256 (арабське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP1257 (Baltic Sort)"
-msgstr ""
+msgstr "CP1257 (балтійське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP874 (Thai Sort)"
-msgstr ""
+msgstr "CP874 (тайське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP932 (Japanese Sort)"
-msgstr ""
+msgstr "CP932 (японське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP936 (Simplified Chinese Sort)"
-msgstr ""
+msgstr "CP936 (спрощене китайське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP949 (Korean Sort)"
-msgstr ""
+msgstr "CP949 (корейське)"
 
 #. frExportToIMG..PageControl1..Settings..PnlSettings..cbbCodePage....Items.Strings
 msgid "CP950 (Traditional Chinese Sort)"
-msgstr ""
+msgstr "CP950 (традиційне китайське)"
 
 #. frMapCombine..pnlBottom..pnlPrTypes..lblPrTypes..Caption
 msgid "Create georeferencing file:"
@@ -1409,11 +1409,11 @@ msgstr "Висота над рівнем моря SRTM3 (розрізнення 
 
 #. frmMain..MainPopupMenu..tbitmAdditionalOperations..tbxWeatherUnderground..Caption
 msgid "Current and Forecast Meteorology (Weather Underground)"
-msgstr ""
+msgstr "Поточна та прогнозована погода (Weather Underground)"
 
 #. frmMain..MainPopupMenu..tbitmAdditionalOperations..tbxYandexWeather..Caption
 msgid "Current and Forecast Meteorology (Yandex Weather)"
-msgstr ""
+msgstr "Поточна та прогнозована погода (Яндекс Погода)"
 
 #. Programmer's name for it: SAS_STR_SensorGPSRecorderLastSpeedCaption
 msgid "Current speed, km/h:"
